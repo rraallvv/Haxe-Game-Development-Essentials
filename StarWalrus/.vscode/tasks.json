@@ -1,0 +1,7 @@
+{
+	"version": "0.1.0",
+	"command": "lime",
+	"isShellCommand": true,
+	"args": ["test", "ios", "-release"],
+	"showOutput": "always"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<string id="TAP_TO_START"><![CDATA[- TAP TO START -]]></string>
+	<string id="HEALTH"><![CDATA[HEALTH: ]]></string>
+	<string id="SCORE"><![CDATA[SCORE: ]]></string>
+	<string id="BEST_SCORE"><![CDATA[BEST SCORE: ]]></string>
+	<string id="PLAY_AGAIN"><![CDATA[PLAY AGAIN]]></string>
+</data>

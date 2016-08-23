@@ -1,0 +1,102 @@
+{"frames": [
+
+{
+	"filename": "RocketKitty01.png",
+	"frame": {"x":2,"y":288,"w":240,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":89},
+	"sourceSize": {"w":240,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "RocketKitty02.png",
+	"frame": {"x":2,"y":379,"w":240,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":89},
+	"sourceSize": {"w":240,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "explosionBulb.png",
+	"frame": {"x":2,"y":2,"w":240,"h":284},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":284},
+	"sourceSize": {"w":240,"h":284},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "explosionLine.png",
+	"frame": {"x":244,"y":461,"w":240,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":11},
+	"sourceSize": {"w":240,"h":11},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "muzzleFlash.png",
+	"frame": {"x":508,"y":344,"w":46,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":71},
+	"sourceSize": {"w":46,"h":71},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "muzzleRings.png",
+	"frame": {"x":556,"y":344,"w":32,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":93},
+	"sourceSize": {"w":32,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "player01.png",
+	"frame": {"x":244,"y":2,"w":350,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":170},
+	"sourceSize": {"w":350,"h":170},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "player02.png",
+	"frame": {"x":244,"y":174,"w":350,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":168},
+	"sourceSize": {"w":350,"h":168},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "projectile.png",
+	"frame": {"x":400,"y":344,"w":106,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":55},
+	"sourceSize": {"w":106,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "smoke.png",
+	"frame": {"x":244,"y":344,"w":154,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":115},
+	"sourceSize": {"w":154,"h":115},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ingameSprites.png",
+	"format": "RGBA8888",
+	"size": {"w":596,"h":474},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b8453636bd79ee8e87045df81d7f93a8:91e47f1f20daa1a0546c199611f1e4e8:4cb4605d16d446da8895eddc918ff6fd$"
+}
+}

@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "HelloWorld",
+			"path": "/Users/rhodylugo/HelloWorld"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel",
+			"path": "/usr/local/lib/haxe/lib/flixel/4,1,1/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel Addons",
+			"path": "/usr/local/lib/haxe/lib/flixel-addons/2,1,0/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Haxe",
+			"path": "/usr/local/lib/haxe/std"
+		}
+	]
+}
